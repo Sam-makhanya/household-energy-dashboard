@@ -1,0 +1,11 @@
+# Raw source data (not shared)
+*.csv
+!PowerBI/data_r/.gitkeep
+
+# R / OS / Power BI temp files
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
+Thumbs.db
+~$*
